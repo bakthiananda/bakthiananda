@@ -1,3 +1,4 @@
+[![masterHead]https://1.bp.blogspot.com/-7A4WynwlsMw/XbBpCXG8FHI/AAAAAAAAMt4/u0a1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s166/s1600/2000_600px.gif](https://rishavchanda.io)
 # 💫 About Me:
 im currently working on some basic c program<br>im curently learning html, css, and c languages<br> Fun fact before entering informatics in my university actually i want to be a doctor but as you know i am rejected from medicine faculty and end up here in informatics but as times go om i like it here, i am actually very loving my time here , because learning informatics unexpectedly is so much fun
 
