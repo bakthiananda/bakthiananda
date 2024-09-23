@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+[![masterhead]https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif]
 <h1 align="center">Hi 👋, I'm bakthi ananda harisona</h1>
 <h3 align="center">A student at paadang state university that study informatics</h3>
 
@@ -16,3 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baktiananda&show_icons=true&locale=en&layout=compact" alt="baktiananda" /></p>
+
