@@ -1,6 +1,6 @@
 # 💫 About Me:
-my namr is bakthi ananda harisona
-i am a student at padang state university and i study informatics there my NIM is 24343085
+my name is bakthi ananda harisona
+i am currently a student at padang state university and i study informatics there my NIM is 24343085
 im currently working on some basic c program<br>im curently learning html, css, and c languages<br> Fun fact before entering informatics in my university actually i want to be a doctor but as you know i am rejected from medicine faculty and end up here in informatics but as times go om i like it here, i am actually very loving my time here , because learning informatics unexpectedly is so much fun
 
 
